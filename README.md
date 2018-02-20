@@ -1,4 +1,4 @@
-# inventory-count
+# Inventory Count
 This is an Inventory counting system developed for a homemade raspberrypi scale
 
 ## OVERVIEW
