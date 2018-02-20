@@ -1,19 +1,19 @@
 # Inventory Count
 This is an Inventory counting system developed for a homemade raspberrypi scale
 
-## OVERVIEW
+## Overview
 Many companies perform inventory counts on a monthly basis. Through the use of low cost technology,
 such as: Raspberry Pi, scale and barcode reader, we can implement a system that will quickly
 identify a product and using previously recorded weights provide an accurate count.
 
-## PROBLEM STATEMENT
+## Problem Statement
 Taking inventory is usually done by an employee spending several hours individually counting items.
 When items are in bulk, an employee could lose count easily and record an incorrect value.
 
-## TARGET USERS
+## Target Users
 Anyone who manually counts inventory of small items.
 
-## USER REQUIREMENTS
+## User Requirements
 • Secure login
 • Setup screen or configuration file to control resource locations
 • Initialize the system by creating databases if they don’t already exist or clearing any previous inventory counts.
@@ -24,38 +24,38 @@ Anyone who manually counts inventory of small items.
 • Report to identify missing items and their last known locations.
 • Export the data
 
-## REQUIRED MATERIALS
+## Required Materials
 Raspberry Pi
 Scale
 Barcode reader (mobile device or actual)
 
-## POSSIBLE TECHNOLOGIES
+## Possible Technologies
 Python (Our first choice)
 Node.js
 PHP
 
-## POSSIBLE COMPETITORS
-AVTory
-ASAP Systems
+## Possible Competitors
+AVTory - (previous Semester Inventory System)
+ASAP Systems - (actual Inventory System company)
 
-## PRIMARY OBJECTIVES
+## Primary Objectives
 Create Web landing page for user login
 Establish database on remote system (AWS or internal server via another Raspberry Pi)
 Record weights of individual items
 
-## SECONDARY OBJECTIVES
+## Secondary Objectives
 Archive old inventory counts from the month period
 Print labels for new items to be added
 Record inventory locations
 Export of data for a user friendly view
 
-## EXPECTED OUTCOME
+## Expected Outcome
 Secure Web System
 Cycleable database (monthly)
 Inventory is recorded
 Weight is recorded
 
-## RESOURCES
+## Resources
 ### Development Tools
 Google Doc (Documentation)
 Github (Versioning)
