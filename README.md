@@ -25,56 +25,56 @@ Anyone who manually counts inventory of small items.
 • Export the data
 
 ## Required Materials
-Raspberry Pi
-Scale
-Barcode reader (mobile device or actual)
+• Raspberry Pi
+• Scale
+• Barcode reader (mobile device or actual)
 
 ## Possible Technologies
-Python (Our first choice)
-Node.js
-PHP
+• Python (Our first choice)
+• Node.js
+• PHP
 
 ## Possible Competitors
-AVTory - (previous Semester Inventory System)
-ASAP Systems - (actual Inventory System company)
+• AVTory - (previous Semester Inventory System)
+• ASAP Systems - (actual Inventory System company)
 
 ## Primary Objectives
-Create Web landing page for user login
-Establish database on remote system (AWS or internal server via another Raspberry Pi)
-Record weights of individual items
+• Create Web landing page for user login
+• Establish database on remote system (AWS or internal server via another Raspberry Pi)
+• Record weights of individual items
 
 ## Secondary Objectives
-Archive old inventory counts from the month period
-Print labels for new items to be added
-Record inventory locations
-Export of data for a user friendly view
+• Archive old inventory counts from the month period
+• Print labels for new items to be added
+• Record inventory locations
+• Export of data for a user friendly view
 
 ## Expected Outcome
-Secure Web System
-Cycleable database (monthly)
-Inventory is recorded
-Weight is recorded
+• Secure Web System
+• Cycleable database (monthly)
+• Inventory is recorded
+• Weight is recorded
 
 ## Resources
 ### Development Tools
-Google Doc (Documentation)
-Github (Versioning)
-Stack Overflow (Research and Dev)
+• Google Doc (Documentation)
+• Github (Versioning)
+• Stack Overflow (Research and Dev)
 
 ### Frontend Technologies
-HTML
-CSS
-Javascript
+• HTML
+• CSS
+• Javascript
 
 ### Backend Technologies
-Python
-MySQL
+• Python
+• MySQL
 
 ### Hardware
-Raspberry Pi
-Scale or Load Cells (x4)
-Barcode Reader (mobile or actual)
+• Raspberry Pi
+• Scale or Load Cells (x4)
+• Barcode Reader (mobile or actual)
 
 ### Software
-Flask - Python web framework to base our application
-MySQL - Database management
+• Flask - Python web framework to base our application
+• MySQL - Database management
