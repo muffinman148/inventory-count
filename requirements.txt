@@ -1,4 +1,4 @@
 Flask
-Redis
+Flask-SqlAlchemy
 mysql
 RPi.GPIO
