@@ -8,7 +8,7 @@ import re
 ### Database Configuration
 config = {
     'user': 'cs441_admin',
-    'passwd': 'adroit_engineer_muss',
+    'passwd': '',
     'host': 'db-inventory-instance1.celqsluscson.us-west-2.rds.amazonaws.com',
     'db': 'dbInv',
 }
