@@ -6,10 +6,11 @@ import sys
 import re
 
 ### Database Configuration
+# TODO Make file for reference to private info
 config = {
-    'user': 'cs441_admin',
+    'user': '',
     'passwd': '',
-    'host': 'db-inventory-instance1.celqsluscson.us-west-2.rds.amazonaws.com',
+    'host': '',
     'db': 'dbInv',
 }
 
