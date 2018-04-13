@@ -6,13 +6,7 @@ import sys
 import re
 
 ### Database Configuration
-# TODO Make file for reference to private info
-config = {
-    'user': '',
-    'passwd': '',
-    'host': '',
-    'db': 'dbInv',
-}
+import config
 
 ### Printer Configuration
 printer_ip = '10.93.0.33'
